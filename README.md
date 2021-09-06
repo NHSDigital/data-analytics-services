@@ -1,4 +1,4 @@
-# [Data Analytics Services](https://nhsdigital.github.io/data-analytics-services)
+# [Data Analytics Services](https://nhsdigital.github.io/data-analytics-services/)
 
 
 
