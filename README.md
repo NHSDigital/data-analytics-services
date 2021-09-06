@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# [Data Analytics Services](https://nhsdigital.github.io/data-analytics-services.github.io/)
 
-You can use the [editor on GitHub](https://github.com/NHSDigital/data-analytics-services.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## We'd like to share our work with you
 
-```markdown
-Syntax highlighted code block
+The Data Services of NHS Digital aims to deliver world-class data and services to improve the health and wealth of people in England by using data, curation and advanced analytics in innovative ways. To support his mission, technologists in the team build a site to share and discuss its open-source technology work with the world. We also share our code which created data publications for the public and internal tools to help the team run more efficiently. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Repositories
 
-1. Numbered
-2. List
+| Repo name    | Description           | Languages | Publication |
+|:-------------|:------------------|:----------|:--------|
+| Sample RAP         | A sample repo for working with Reproducible Analytical Pipeline | Python  | No |
+| [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset  | SQL, Python, Markdown  | Yes |
+| [codonPython](https://github.com/NHSDigital/codonPython)      |  To reduce the barrier for entry for analysis and provide software development experience for those at a higher level of technical ability at NHSD.     | Python   | No |
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Work with us
 
-### Jekyll Themes
+Our teams design, develop and operate the national IT and data services that support clinicians at work, help patients get the best care, and use data to improve health and care. Our mission demands smart, usable, and reliable technology. Come serve our customers by helping us design and build it.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NHSDigital/data-analytics-services.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Learn more about the work we do at our page for the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
