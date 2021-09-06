@@ -1,1 +1,5 @@
+title: analytics-service/data-services
+description: A site for the Analytic Service team of NHS Digital/ Data Services to share and discuss its open-source technology and publications work with the world.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-slate
