@@ -1,4 +1,4 @@
-# [Data Analytics Services](https://nhsdigital.github.io/data-analytics-services/)
+# [Data Services - Analytics Service](https://nhsdigital.github.io/data-analytics-services/)
 
 
 ## We'd like to share our work with you
@@ -20,5 +20,5 @@ The Data Services of NHS Digital aims to deliver world-class data and services t
 
 Our teams design, develop and operate the national IT and data services that support clinicians at work, help patients get the best care, and use data to improve health and care. Our mission demands smart, usable, and reliable technology. Come serve the people by helping us design and build better products.
 
-Learn more about the work we do in [Data, insights and statistics](https://digital.nhs.uk/data-and-information/data-insights-and-statistics) group of the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services) of NHS Digital.
+Learn more about the work we do in [Data, insights and statistics](https://digital.nhs.uk/data-and-information/data-insights-and-statistics) group of the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services) - NHS Digital.
 
