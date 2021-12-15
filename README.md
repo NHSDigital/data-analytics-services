@@ -23,3 +23,7 @@ Our teams design, develop and operate the national IT and data services that sup
 
 Learn more about the work we do in [Data, insights and statistics](https://digital.nhs.uk/data-and-information/data-insights-and-statistics) group of the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services) - NHS Digital.
 
+## Licence
+Data Analytics Services codebase is released under the MIT License.
+
+The documentation is © Crown copyright and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
