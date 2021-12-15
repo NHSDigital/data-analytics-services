@@ -10,8 +10,9 @@ The Data Services of NHS Digital aims to deliver world-class data and services t
 
 | Repo name    | Description           | Languages | Published Report |
 |:-------------|:------------------|:----------|:--------|
-| [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipeline | Python  | Yes |
-| [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset  | SQL, Python, Markdown  | Yes |
+| [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice) | Collection of NHSD RAP resources to help analysts adopt and apply RAP practices. | Python, PySpark | No |
+| [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipelines. | Python, PySpark  | Yes |
+| [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes |
 | [codonPython](https://github.com/NHSDigital/codonPython)      |  Aim to reduce the DAE barrier for new analysts at NHSD.     | Python   | No |
 
 
