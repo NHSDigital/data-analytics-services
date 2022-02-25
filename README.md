@@ -15,9 +15,11 @@ The Data Services of NHS Digital aims to deliver world-class data and services t
 | [Open data standards](https://github.com/NHSDigital/open-data-standards) | Draft of open data CSV standards for comment | Markdown | No |
 | [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipelines. | Python, PySpark  | Yes |
 | [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes |
+| [NHSD analytics services blog](https://github.com/NHSDigital/analytics-services-blog) | Repo for blog webpage | HTML, CSS | No |
 | [codonPython](https://github.com/NHSDigital/codonPython)      |  Aim to reduce the DAE barrier for new analysts at NHSD.     | Python   | No |
 
-
+## We blog!
+Pleave visit our [NHS Digital Blog](https://nhsdigital.github.io/analytics-services-blog/) webpage to learn all about the latest developments and updates from our analytics teams.
 
 ## Work with us
 
