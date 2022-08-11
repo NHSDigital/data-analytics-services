@@ -23,6 +23,7 @@ The Data Services of NHS Digital aims to deliver world-class data and services t
 | [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice) | Collection of NHSD RAP resources to help analysts adopt and apply RAP practices. | Python, PySpark, Markdown | No |
 | [RAP package template](https://github.com/NHSDigital/rap-package-template) | RAP package template | Python | No |
 | [Workforce: Absence Rates](https://github.com/NHSDigital/absence-rates) | Codebase for Absence Rates publication | SQL, Python | No |
+| [National-Child-Measurement-Programme-Provisional-Report-Code](https://github.com/NHSDigital/National-Child-Measurement-Programme-Provisional-Report-Code) | Codebase for NCMP Report publication | SQL, Python | No |
 | [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipelines (RAP). | Python, PySpark  | Yes |
 | [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes |
 
