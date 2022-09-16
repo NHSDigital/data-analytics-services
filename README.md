@@ -1,9 +1,12 @@
 # [Data Services - Analytics Service](https://nhsdigital.github.io/data-analytics-services/)
 
-
 ## We'd like to share our work with you
 
-The Data Services of NHS Digital aims to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. To support this mission, technologists in the team has built a site to share and discuss open-source technology work. We also distribute our code, publications and internal tools for feedback to help production run more efficiently. 
+Data Services within NHS Digital aims to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. 
+
+We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes. 
+
+**To contact us raise an issue on Github or via email (datascience@nhs.net) and we will respond promptly.**
 
 ## Our repositories
 
@@ -34,13 +37,13 @@ The Data Services of NHS Digital aims to deliver world-class data and services t
 | [Smoking-Drinking-and-Drug-Use-Report-Code](https://github.com/NHSDigital/Smoking-Drinking-and-Drug-Use-Report-Code) | Code repository for the Smoking Drinking and Drug Use Report  | R, Python, Markdown  | Yes |
 
 ## We blog!
-Pleave visit our [NHS Digital Blog](https://nhsdigital.github.io/analytics-services-blog/) webpage to learn all about the latest developments and updates from our analytics teams.
+Please visit our [NHS Digital Blog](https://nhsdigital.github.io/analytics-services-blog/) to discover the latest developments and updates from our analytics teams.
 
 ## Work with us
 
 Our teams design, develop and operate the national IT and data services that support clinicians at work, help patients get the best care, and use data to improve health and care. Our mission demands smart, usable, and reliable technology. Come serve the people by helping us design and build better products.
 
-Learn more about the work we do in [Data, insights and statistics](https://digital.nhs.uk/data-and-information/data-insights-and-statistics) group of the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services) - NHS Digital.
+Learn more about the work we do in [Data, Insights and Statistics](https://digital.nhs.uk/data-and-information/data-insights-and-statistics) group of the [Data services](https://digital.nhs.uk/about-nhs-digital/our-organisation/our-organisation-structure/data-services) - NHS Digital.
 
 ## Licence
 Data Analytics Services codebase is released under the MIT License.
