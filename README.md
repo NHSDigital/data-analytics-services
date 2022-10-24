@@ -23,7 +23,7 @@ We have created this site with this mission in mind, to share and discuss open-s
 
 | Repo name    | Description           | Languages | Published Report |
 |:-------------|:------------------|:----------|:--------|
-| [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice) | Collection of NHSD RAP resources to help analysts adopt and apply RAP practices. | Python, PySpark, Markdown | No |
+| [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice) | Collection of NHSD RAP resources to help analysts adopt and apply RAP practices. **The github pages website of this repo is here: [RAP Community of Practice Website](https://nhsdigital.github.io/rap-community-of-practice/)** | Python, PySpark, Markdown | No |
 | [RAP package template](https://github.com/NHSDigital/rap-package-template) | RAP package template | Python | No |
 
 ## RAP Publication Repositories
