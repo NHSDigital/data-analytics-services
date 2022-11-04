@@ -36,7 +36,8 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes |
 | [Smoking-Drinking-and-Drug-Use-Report-Code](https://github.com/NHSDigital/Smoking-Drinking-and-Drug-Use-Report-Code) | Code repository for the Smoking Drinking and Drug Use Report  | R, Python, Markdown  | Yes |
 | [ASC-User-Survey](https://github.com/NHSDigital/ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication  | R, Python, Markdown  | Yes |
-| [NCDes package](https://github.com/NHSDigital/ncdes) | Code used to produce the Network Contract Directed Enhanced Service publication  | Python, Markdown  | Yes || [Data Science Accelerator Project]([https://github.com/NHSDigital/ncdes](https://github.com/NHSDigital/Data-Science-Accelerator-IAPT-Patient-Outcomes-) | Code used to produce the Data Science Accelerator on IAPT patient outcomes  | Python, Markdown  | No |
+| [NCDes package](https://github.com/NHSDigital/ncdes) | Code used to produce the Network Contract Directed Enhanced Service publication  | Python, Markdown  | Yes |
+| [IAPT Patient Outcomes Data Science Accelerator Project]([https://github.com/NHSDigital/ncdes](https://github.com/NHSDigital/Data-Science-Accelerator-IAPT-Patient-Outcomes-) | Code used to produce the Data Science Accelerator on IAPT patient outcomes  | Python, Markdown  | No |
 
 ## We blog!
 Please visit our [NHS Digital Blog](https://nhsdigital.github.io/analytics-services-blog/) to discover the latest developments and updates from our analytics teams.
