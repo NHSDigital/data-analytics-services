@@ -17,6 +17,7 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [Medicines text mining tool](https://github.com/NHSDigital/medicines-text-mining-tool) | Medicines text mining application. | Python, PySpark | No |
 | [NHSD analytics services blog](https://github.com/NHSDigital/analytics-services-blog) | Repo for blog webpage | HTML, CSS | No |
 | [codonPython](https://github.com/NHSDigital/codonPython)      |  Aim to reduce the DAE barrier for new analysts at NHSD.     | Python   | No |
+| [Artificial Data Generator](https://github.com/NHSDigital/artificial-data-generator) | Pipelines and reusable code for generating anonymous artificial versions of NHS Digital assets in Databricks. | Python, PySpark | No |
 
 
 ## RAP Guidance Repositories
