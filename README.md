@@ -29,16 +29,20 @@ We have created this site with this mission in mind, to share and discuss open-s
 
 ## RAP Publication Repositories
 
-| Repo name    | Description           | Languages | Published Report |
-|:-------------|:------------------|:----------|:--------|
-| [Workforce: Absence Rates](https://github.com/NHSDigital/absence-rates) | Codebase for Absence Rates publication | SQL, Python | Yes |
-| [National Child Measurement Programme Provisional Report Code](https://github.com/NHSDigital/National-Child-Measurement-Programme-Provisional-Report-Code) | Codebase for NCMP Report publication | SQL, Python | Yes |
-| [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipelines (RAP). | Python, PySpark  | No |
-| [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes |
-| [Smoking-Drinking-and-Drug-Use-Report-Code](https://github.com/NHSDigital/Smoking-Drinking-and-Drug-Use-Report-Code) | Code repository for the Smoking Drinking and Drug Use Report  | R, Python, Markdown  | Yes |
-| [ASC-User-Survey](https://github.com/NHSDigital/ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication  | R, Python, Markdown  | Yes |
-| [NCDes package](https://github.com/NHSDigital/ncdes) | Code used to produce the Network Contract Directed Enhanced Service publication  | Python, Markdown  | Yes |
-| [IAPT Patient Outcomes Data Science Accelerator Project](https://github.com/NHSDigital/Data-Science-Accelerator-IAPT-Patient-Outcomes-) | Code used to produce the Data Science Accelerator on IAPT patient outcomes  | Python, Markdown  | No |
+> An easy way to find all fo the NHS Digital publication repos, is to look at the [#nhs-digital-publication](https://github.com/topics/nhs-digital-publication) topic
+
+| Repo name    | Description           | Languages | Published Report | First Published |
+|:-------------|:------------------|:----------|:--------|:-------|
+| [ASC-User-Survey](https://github.com/NHSDigital/ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication  | R, Python, Markdown  | Yes | 2022-09-20 |
+| [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code) | To share analysis code using the [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research) dataset.  | SQL, Python, Markdown  | Yes | 2021-03-08 |
+| [IAPT Patient Outcomes Data Science Accelerator Project](https://github.com/NHSDigital/Data-Science-Accelerator-IAPT-Patient-Outcomes-) | Code used to produce the Data Science Accelerator on IAPT patient outcomes  | Python, Markdown  | No | 2022-11-03 |
+| [National Child Measurement Programme Report Code](https://github.com/NHSDigital/National-Child-Measurement-Programme-Report-Code) | Codebase for NCMP Report publication | SQL, Python | Yes | 2022-12-12 |
+| [National Child Measurement Programme Provisional Report Code](https://github.com/NHSDigital/National-Child-Measurement-Programme-Provisional-Report-Code) | Codebase for NCMP Report publication | SQL, Python | Yes | 2022-08-11 |
+| [National Diabetes Audit](https://github.com/NHSDigital/national-diabetes-audit) | A sample repo for working with Reproducible Analytical Pipelines (RAP). | Python, PySpark  | No | 2021-10-14 |
+| [NCDes package](https://github.com/NHSDigital/ncdes) | Code used to produce the Network Contract Directed Enhanced Service publication  | Python, Markdown  | Yes | 2022-10-07 | 
+| [Smoking-Drinking-and-Drug-Use-Report-Code](https://github.com/NHSDigital/Smoking-Drinking-and-Drug-Use-Report-Code) | Code repository for the Smoking Drinking and Drug Use Report  | R, Python, Markdown  | Yes | 2022-08-26 |
+| [Workforce: Absence Rates](https://github.com/NHSDigital/absence-rates) | Codebase for Absence Rates publication | SQL, Python | Yes | 2022-07-21 |
+
 
 ## We blog!
 Please visit our [NHS Digital Blog](https://nhsdigital.github.io/analytics-services-blog/) to discover the latest developments and updates from our analytics teams.
