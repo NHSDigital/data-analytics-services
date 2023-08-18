@@ -2,7 +2,7 @@
 
 ## We'd like to share our work with you
 
-Data Services within NHS Digital aims to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. 
+We aim to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. 
 
 We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes. 
 
@@ -18,8 +18,37 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [NHSD analytics services blog](https://github.com/NHSDigital/analytics-services-blog) | Repo for blog webpage | HTML, CSS | No |
 | [codonPython](https://github.com/NHSDigital/codonPython)      |  Aim to reduce the DAE barrier for new analysts at NHSD.     | Python   | No |
 | [Artificial Data Generator](https://github.com/NHSDigital/artificial-data-generator) | Pipelines and reusable code for generating anonymous artificial versions of NHS Digital assets in Databricks. | Python, PySpark | No |
+| [DNAttend](https://github.com/nhsx/dna-risk-predict)| ML framework for predicting patient non-attendance | Python | [Documentation]( https://github.com/nhsx/dna-risk-predict/blob/main/README_files/docs.md) |
+| [nhs_time_of_travel](https://github.com/nhsx/nhs_time_of_travel) |This GitHub repository and accompanying webpage contain the initial proof of concept and exploratory analysis for the design of a holistic and interactive mapping tool to support decision-making in health and social care. | Python | [Yes](https://nhsx.github.io/nhs_time_of_travel/) |
+| [MedicalMap](https://github.com/nhs-pycom/nhs_time_of_travel) | A collaborative open source project between NHS Python Community and Google Health, building on [nhs_time_of_travel](https://github.com/nhsx/nhs_time_of_travel) to create various mapping functionality in a streamlit app| Python | No |
+| [open-cyber](https://github.com/nhsx/open-cyber)  |A webpage giving select headline stats on cybersecurity in healthcare organisations | Python | [Site]( https://nhsx.github.io/open-cyber/) |
+| [antibiotic_cost]( https://nhsx.github.io/antibiotic_cost/) |Plotly chart and folium map visualizing the prescribing cost of the antibiotics Amoxicillin, Doxycycline Hyclate and Caefalexin for Clinical Commissioning Groups (CCGs) | Python | [Site]( https://nhsx.github.io/antibiotic_cost/) |
+| [open-health-statistcs]( https://github.com/nhsx/open-health-statistics) | Statistics on open source healthcare repositories |Python| [Site]( https://nhsx.github.io/open-health-statistics/) |
+| [Forecasting]( https://github.com/nhsx/Forecasting) | A repo of different forecasting methods for different situations| Python | No|
+| [SynPath](https://github.com/nhsx/SynPath)| Proof Of Concept - Open Patient Pathway Generator using and an agent based approach | Python | [Report](https://github.com/nhsx/SynPath/blob/master/reports/REDACTED_C245%20ABM%20Patient%20Pathways_Final%20Report_V3_28042021.cleaned.pdf) |
+| [MultiNet](https://github.com/nhsx/morbidity_network_analysis)| This command line tool provides user-friendly and automated multi-morbidity network analysis. Detect significant associations are correcting for confounding factors such as Age and Sex. Includes community detection for un-directed networks. Option to build directed networks when diagnosis times are available. | Python | No |
+| [ambulance-DES](https://github.com/nhsx/ambulance-DES) | Proof of concept simmer discrete event simulation for the ambulance setting | R| [Conference Slides]( https://github.com/nhs-r-community/conference-2022/blob/main/talks/2022-11-16/16_Nov_MartinaFonseca%20-%20Use%20of%20discrete%20Event%20Simulation%20(RSimmer).pptx) |
+| [HSMA4-12-DES-rheum](https://github.com/nhsx/HSMA4-12-DES-rheum)| Discrete Event Simulation - The role of Patient Initiated Follow-up in supporting the elective recovery in rheumatology| R| No |
+| [eLfH-PHM-RiskStrat](https://github.com/nhsx/eLfH-PHM-RiskStrat)  |A worked example to support the e-Learning for Health (e-LfH) PHM Risk Stratification Module.|R|No|
+| [ai-dictionary]( https://github.com/nhsx/ai-dictionary) |Prototype AI Dictionary from the NHS AI Lab | JavaScript| [Site]( https://nhsx.github.io/ai-dictionary)  |
+| [SystemHierarchies]( https://github.com/nhsx/SystemHierarchies) | Aiming to visualise and represent the structure and mapping of different NHS organisations| Python| No|
+| [nhse-io-jekyll-template]( https://github.com/nhsengland/nhse-io-jekyll-template)   |Template for io pages using Jekyll incorporating the NHS service manual| html, Ruby| [Site]( https://nhsengland.github.io/nhse-io-jekyll-template/) 
+ 
+## Open Code from Internship Programme
+*see [Internship Site](https://nhsx.github.io/nhsx-internship-projects/) for more details*
 
-
+| Repo Name | Description | Languages | Published Report |
+|:-------------|:------------------|:----------|:--------|
+| [SynthVAE](https://github.com/nhsx/SynthVAE)| NHSE DS Internship developing a Synthetic data generation by a Variational AutoEncoder with Differential Privacy assessed using Synthetic Data Vault metrics| Python | [Reports]( https://github.com/nhsx/SynthVAE/tree/main/reports) |
+| [SynPath_Diabetes](https://github.com/nhsx/SynPath_Diabetes) | NHSE DS Internship developing a SynPath module for generating type 2 diabetes pathway| Python | [Report]( https://github.com/nhsx/SynPath_Diabetes/blob/main/t2dm/reports/Technical%20Report%20(SynPath%20Diabetes)%20v1.pdf) |
+| [Diabetes Prevalence Management and Health Inequalities](https://github.com/nhsx/ESNEFT_diabetes_StephenRicher)| NHSE DS Internship looking at how to identify inequalities in population health data | Python | [Report]( https://github.com/nhsx/ESNEFT_diabetes_StephenRicher/blob/main/stephen-richer-report.pdf )|
+| [stm-survey-text](https://github.com/nhsx/stm-survey-text)|NHSE DS Internship developing a Structural Topic Modelling code to gain insights from free text responses to NHS surveys and their associated metadata| Python | [Report](https://github.com/nhsx/stm-survey-text/tree/main/reports) |
+| [LIME-XAI-Facial-Disease-Classification](https://github.com/nhsx/LIME-XAI-Facial-Disease-Classification) | NHSE DS Internship Scheme project investigating if a LIME application using superpixels is appropriate for facial healthcare image classification| Python | [Report]( https://github.com/nhsx/LIME-XAI-Facial-Disease-Classification/blob/main/reports/report_AM.pdf )|
+| [TxtRayAlign](https://github.com/nhsx/txt-ray-align) | NHSE DS Internship exploring contrastive alignment of image and text encoders for image-based radiology report retrieval and generation, and identification of possible evaluation metrics| Python | [Reports](https://github.com/nhsx/txt-ray-align/tree/main/report) |
+| [commercial-data-healthcare-predictions]( https://github.com/nhsx/commercial-data-healthcare-predictions) | NHSE DS Internship investigating of the value of commercial sales data on respiratory death predictions using Model Class Reliance| Python | [Report]( https://github.com/nhsx/commercial-data-healthcare-predictions/blob/main/report/NHSX%20Report_ValueofCommercialProductSalesDatainHealthcarePrediction_V2.pdf) |
+|[NHSSynth]( https://github.com/nhsx/NHSSynth) | NHSE DS Internship developing a Python package alongside research and investigative materials covering the effectiveness of the package and synthetic data more generally when applied to NHS use cases.|Python|No|
+| [ELM4PSIR](https://github.com/nhsx/ELM4PSIR)  | NHSE DS Internship exploring Language Modelling for (NHS) Patient Safety Incident Reports - DART PhD Internship Project |Python| [Report]( https://github.com/nhsx/ELM4PSIR/blob/main/reports/ELM4PSIR_NT_v1.1.pdf)  |
+ 
 ## RAP Guidance Repositories
 
 | Repo name    | Description           | Languages | Published Report |
