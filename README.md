@@ -2,11 +2,14 @@
 
 ## We'd like to share our work with you
 
+This page showcases some of the work done by teams within NHS England.
+
 We aim to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. 
 
 We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes. 
 
-**To contact us raise an issue on Github or via email (datascience@nhs.net) and we will respond promptly.**
+> **Note**
+> The repo is curated by the Data Science team: to contact us [raise an issue on GitHub](https://github.com/NHSDigital/data-analytics-services/issues) or via email (datascience@nhs.net) and we will respond promptly.
 
 ## Our repositories
 
