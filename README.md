@@ -9,7 +9,7 @@ We aim to deliver world-class data and services to improve the health and wellbe
 We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes. 
 
 > **Note**
-> The repo is curated by the Data Science team: to contact us [raise an issue on GitHub](https://github.com/NHSDigital/data-analytics-services/issues) or via email (datascience@nhs.net) and we will respond promptly.
+> The repo is curated by the Data Science team: to contact us [raise an issue on GitHub](https://github.com/NHSDigital/data-analytics-services/issues) or via email (england.RAPchampions@nhs.net) and we will respond promptly.
 
 ## Our repositories
 
