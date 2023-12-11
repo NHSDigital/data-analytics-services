@@ -18,6 +18,7 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [Open data standards](https://github.com/NHSDigital/open-data-standards) | Draft of open data CSV standards for comment | Markdown | No |
 | [Data Visualisation for Health and Care Community of Practice](https://github.com/NHSDigital/data-viz-community-of-practice) | Committe of folk working in data visualisation across CSUs, Trusts, NHS Digital, NHS England and others. | Various | No |
 | [Medicines text mining tool](https://github.com/NHSDigital/medicines-text-mining-tool) | Medicines text mining application. | Python, PySpark | No |
+| [MPS Diagnostics](https://github.com/NHSDigital/mps_diagnostics) | Interpretable metadata for MPS record linkage and Person ID | Python, PySpark | No |
 | [NHSD analytics services blog](https://github.com/NHSDigital/analytics-services-blog) | Repo for blog webpage | HTML, CSS | No |
 | [codonPython](https://github.com/NHSDigital/codonPython)      |  Aim to reduce the DAE barrier for new analysts at NHSD.     | Python   | No |
 | [Artificial Data Generator](https://github.com/NHSDigital/artificial-data-generator) | Pipelines and reusable code for generating anonymous artificial versions of NHS Digital assets in Databricks. | Python, PySpark | No |
