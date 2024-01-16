@@ -4,9 +4,9 @@
 
 This page showcases some of the work done by teams within NHS England.
 
-We aim to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways. 
+We aim to deliver world-class data and services to improve the health and wellbeing of people in England by using data, curation and advanced analytics in innovative ways.
 
-We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes. 
+We have created this site with this mission in mind, to share and discuss open-source technology work. We will also distribute our code, publications and internal tools for feedback, with the hope this can help us improve our production processes.
 
 > **Note**
 > The repo is curated by the Data Science team: to contact us [raise an issue on GitHub](https://github.com/NHSDigital/data-analytics-services/issues) or via email (england.RAPchampions@nhs.net) and we will respond promptly.
@@ -36,8 +36,8 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [eLfH-PHM-RiskStrat](https://github.com/nhsx/eLfH-PHM-RiskStrat)  |A worked example to support the e-Learning for Health (e-LfH) PHM Risk Stratification Module.|R|No|
 | [ai-dictionary]( https://github.com/nhsx/ai-dictionary) |Prototype AI Dictionary from the NHS AI Lab | JavaScript| [Site]( https://nhsx.github.io/ai-dictionary)  |
 | [SystemHierarchies]( https://github.com/nhsx/SystemHierarchies) | Aiming to visualise and represent the structure and mapping of different NHS organisations| Python| No|
-| [nhse-io-jekyll-template]( https://github.com/nhsengland/nhse-io-jekyll-template)   |Template for io pages using Jekyll incorporating the NHS service manual| html, Ruby| [Site]( https://nhsengland.github.io/nhse-io-jekyll-template/) 
- 
+| [nhse-io-jekyll-template]( https://github.com/nhsengland/nhse-io-jekyll-template)   |Template for io pages using Jekyll incorporating the NHS service manual| html, Ruby| [Site]( https://nhsengland.github.io/nhse-io-jekyll-template/)
+
 ## Open Code from Internship Programme
 *see [Internship Site](https://nhsx.github.io/nhsx-internship-projects/) for more details*
 
@@ -52,7 +52,7 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [commercial-data-healthcare-predictions]( https://github.com/nhsx/commercial-data-healthcare-predictions) | NHSE DS Internship investigating of the value of commercial sales data on respiratory death predictions using Model Class Reliance| Python | [Report]( https://github.com/nhsx/commercial-data-healthcare-predictions/blob/main/report/NHSX%20Report_ValueofCommercialProductSalesDatainHealthcarePrediction_V2.pdf) |
 |[NHSSynth]( https://github.com/nhsx/NHSSynth) | NHSE DS Internship developing a Python package alongside research and investigative materials covering the effectiveness of the package and synthetic data more generally when applied to NHS use cases.|Python|No|
 | [ELM4PSIR](https://github.com/nhsx/ELM4PSIR)  | NHSE DS Internship exploring Language Modelling for (NHS) Patient Safety Incident Reports - DART PhD Internship Project |Python| [Report]( https://github.com/nhsx/ELM4PSIR/blob/main/reports/ELM4PSIR_NT_v1.1.pdf)  |
- 
+
 ## RAP Guidance Repositories
 
 | Repo name    | Description           | Languages | Published Report |
@@ -71,6 +71,7 @@ We have created this site with this mission in mind, to share and discuss open-s
 | [ASC-Overview](https://github.com/NHSDigital/ASC-Overview)                                                                                                         | Code repository for Adult Social Care Overview                                                                                                                                                                                                                                                                                                                                                     | Python                    | :heavy_check_mark:   | 2023-06-13             |
 | [ASC-Safeguarding-Adults](https://github.com/NHSDigital/ASC-Safeguarding-Adults)                                                                                   | Safeguarding Adults is a legal obligation for English Councils   responsible for Adult Social Services. It aims to protect vulnerable adults   from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data   from these councils, generating insights on national, regional, and local   safeguarding efforts.                                                                    | Python                    | :heavy_check_mark:   | 2023-06-13             |
 | [ASC-User-Survey](https://github.com/NHSDigital/ASC-User-Survey)                                                                                               | Code repository for the Personal Social   Services Adult Social Care Survey publication                                                                                                                                                                                                                                                                                                                | R, Python, Markdown       | :heavy_check_mark:   | 2022-09-20             |
+| [ASC_LA_Peer_Groups](https://github.com/NHSDigital/ASC_LA_Peer_Groups) | Calculates statistical neighbours (aka peers) for Local Authorities in England, for use in Adult Social Care statistics. | Python, Markdown | :heavy_check_mark: | 2024-01-16 |
 | [GDPPR_Analytical_Code](https://github.com/NHSDigital/GDPPR_Analytical_Code)                                                                                   | To share analysis code using the   [GDPPR](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research)   dataset.                                                                                                                                                                                                                                                                 | SQL, Python, Markdown     | :heavy_check_mark:   | 2021-03-08             |
 | [IAPT Patient Outcomes Data Science   Accelerator   Project](https://github.com/NHSDigital/Data-Science-Accelerator-IAPT-Patient-Outcomes-)                    | Code used to produce the Data Science   Accelerator on IAPT patient outcomes                                                                                                                                                                                                                                                                                                                           | Python, Markdown          |                      | 2022-11-03             |
 | [idhc_publication](https://github.com/NHSDigital/ldhc_publication)                                                                                                 | Code   used to produce the Learning Disability Health Check Scheme publication                                                                                                                                                                                                                                                                                                                     | Python                    | :heavy_check_mark:   | 2023-04-17             |
